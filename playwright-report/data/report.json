@@ -1,0 +1,135 @@
+{
+  "files": [
+    {
+      "fileId": "4570629773aaf51a1c102542b8298c6040451ed1",
+      "fileName": "tests/example.spec.ts",
+      "tests": [
+        {
+          "testId": "4570629773aaf51a1c102542b8298c6040451ed1-ad324e60573b1bac0fc3aa8c02b4c730d229bc54",
+          "title": "Screenshots",
+          "projectName": "Chromium",
+          "location": {
+            "file": "tests/example.spec.ts",
+            "line": 72,
+            "column": 3
+          },
+          "duration": 4744,
+          "outcome": "expected",
+          "path": [
+            "tests/example.spec.ts:72",
+            "Hooks"
+          ],
+          "ok": true
+        },
+        {
+          "testId": "4570629773aaf51a1c102542b8298c6040451ed1-e5728617a15508d2232fbc1a9f2441290ea1caa6",
+          "title": "Screenshots",
+          "projectName": "Firefox",
+          "location": {
+            "file": "tests/example.spec.ts",
+            "line": 72,
+            "column": 3
+          },
+          "duration": 3056,
+          "outcome": "expected",
+          "path": [
+            "tests/example.spec.ts:72",
+            "Hooks"
+          ],
+          "ok": true
+        },
+        {
+          "testId": "4570629773aaf51a1c102542b8298c6040451ed1-fdd3ed763edabe6503c809269e805b3ff2b94867",
+          "title": "Screenshots",
+          "projectName": "Webkit",
+          "location": {
+            "file": "tests/example.spec.ts",
+            "line": 72,
+            "column": 3
+          },
+          "duration": 1513,
+          "outcome": "expected",
+          "path": [
+            "tests/example.spec.ts:72",
+            "Hooks"
+          ],
+          "ok": true
+        },
+        {
+          "testId": "4570629773aaf51a1c102542b8298c6040451ed1-6c26a1581726b1915fba89eb6da79d728e92dd7f",
+          "title": "Single element Screenshot",
+          "projectName": "Chromium",
+          "location": {
+            "file": "tests/example.spec.ts",
+            "line": 79,
+            "column": 3
+          },
+          "duration": 4320,
+          "outcome": "expected",
+          "path": [
+            "tests/example.spec.ts:79",
+            "Hooks"
+          ],
+          "ok": true
+        },
+        {
+          "testId": "4570629773aaf51a1c102542b8298c6040451ed1-e692b61a2e88a6d1fb7967a26cc4014a74052192",
+          "title": "Single element Screenshot",
+          "projectName": "Firefox",
+          "location": {
+            "file": "tests/example.spec.ts",
+            "line": 79,
+            "column": 3
+          },
+          "duration": 2774,
+          "outcome": "expected",
+          "path": [
+            "tests/example.spec.ts:79",
+            "Hooks"
+          ],
+          "ok": true
+        },
+        {
+          "testId": "4570629773aaf51a1c102542b8298c6040451ed1-f1ae8f4df0af621b8b3dc31b6dab282a6363829c",
+          "title": "Single element Screenshot",
+          "projectName": "Webkit",
+          "location": {
+            "file": "tests/example.spec.ts",
+            "line": 79,
+            "column": 3
+          },
+          "duration": 1396,
+          "outcome": "expected",
+          "path": [
+            "tests/example.spec.ts:79",
+            "Hooks"
+          ],
+          "ok": true
+        }
+      ],
+      "stats": {
+        "total": 6,
+        "expected": 6,
+        "unexpected": 0,
+        "flaky": 0,
+        "skipped": 0,
+        "ok": true,
+        "duration": 17803
+      }
+    }
+  ],
+  "projectNames": [
+    "Chromium",
+    "Firefox",
+    "Webkit"
+  ],
+  "stats": {
+    "total": 6,
+    "expected": 6,
+    "unexpected": 0,
+    "flaky": 0,
+    "skipped": 0,
+    "ok": true,
+    "duration": 17803
+  }
+}
